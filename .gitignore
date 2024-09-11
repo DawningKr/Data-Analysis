@@ -1,6 +1,6 @@
-*/.venv
+.venv
 
-*/Pipfile
-*/Pipfile.lock
+Pipfile
+Pipfile.lock
 
-*/.vscode
+.vscode
